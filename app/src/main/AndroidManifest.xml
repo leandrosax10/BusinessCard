@@ -10,6 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BusinessCard">
+        <activity android:name="br.com.leandro.ui.AddBusinessCardActivity"></activity>
         <activity android:name="br.com.leandro.ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
